@@ -5,5 +5,7 @@ To Encrypt the file from the Client side and to send it to the Server side for D
 - Clone this repository using the git clone command
 - Go into the Server-Side directory and run the Server.py file
 - Go into the Client-Side directory and run the Client.py file
-- Enter any Password to Encrypt the file
+- Enter any Password to Encrypt the file from the Client
 - Go to the Server and enter the same password to decrypt the contents of the file into Fileout 
+
+Note: You would need two terminals running at the same time to run this code correctly. One for client and one for the server.
